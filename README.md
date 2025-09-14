@@ -14,8 +14,7 @@ The project is organized into the following components:
 ## 🛠️ Technologies Used
 
 - **Programming Language**: Python
-- **Libraries**: TensorFlow, Keras, Pandas, NumPy, Matplotlib, Flask
-- **Deployment**: Docker (for containerization)
+- **Libraries**: TensorFlow, Keras, Pandas, NumPy, Matplotlib, Flask, Streamlit
 
 ## ⚙️ Features
 
